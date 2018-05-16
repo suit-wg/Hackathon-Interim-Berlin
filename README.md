@@ -11,13 +11,12 @@
 	Germany
 
 - *Activities*: 
-We are planning to do some interoperability testing between the SUIT manifest (draft spec) implementations offered by different groups. We also plan to work on foundational building blocks together (e.g. COSE implementation etc.).  Since the hackathon at IETF 101 in London, Inria and FU Berlin have released a new COSE implementation, and ARM have released firmware update code.
+We are planning to do some interoperability testing between the SUIT manifest implementations offered by different groups. We also plan to work on foundational building blocks together (e.g. COSE implementation). Since the IETF#101 Hackathon in London, Inria and FU Berlin have released a new COSE implementation. Arm has released a bootloader, and a manifest generation tool.
 
-- *On-site participation*: if you plan to participate on-site, please drop a line asap to the organizers (contact: emmanuel.baccelli@inria.fr) and add you name to the list on the [participant list](https://github.com/suit-wg/Hackathon-Interim-Berlin/wiki/Participants).
+- *On-site participation*: if you plan to participate on-site, please register via the dedicated Eventbrige webpage at https://www.eventbrite.com/e/ietf-software-updates-for-internet-of-things-suit-hackathon-tickets-46144700040. This will help us with the logistics (e.g. social event preparation). 
 
 - *Remote participation*:
-	WebEx + webcam + decent external microphone are planned so remote people can participate. Connection details to follow.
-  If you plan to participate remotely, please drop a line to the organizers (contact: emmanuel.baccelli@inria.fr) and add you name to the list on the [participant list](https://github.com/suit-wg/Hackathon-Interim-Berlin/wiki/Participants).
+	We will support remote participation and will setup a Webex, a webcam and a decent microphone. The Webex details will follow. If you plan to participate remotely, please drop a mail to the organizers (contact: Emmanuel <emmanuel.baccelli@inria.fr> and Hannes <hannes.tschofenig@arm.com>).
 
 ### Interop setup
 - Available information about the [set up](https://github.com/suit-wg/Hackathon-Interim-Berlin/wiki/Interop-Setup).
@@ -26,10 +25,3 @@ We are planning to do some interoperability testing between the SUIT manifest (d
 
 # Interim SUIT wg meeting at 1600 CEST on 6 June 2018
 - In preparation of the upcoming IETF 102 in Montreal, a (virtual) interim SUIT working group meeting is planned at the end of the Berlin hackathon, at 1600 CEST on 6 June 2018.
-
-- *Remote participation*: (WebEx?) details will follow.
-
-
-
-
-
