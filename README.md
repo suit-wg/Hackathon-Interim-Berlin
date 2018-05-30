@@ -30,12 +30,12 @@ We are planning to do some interoperability testing between the SUIT manifest im
 
 The Webex link is https://ietf.webex.com. Enter meeting number and meeting password, as stated below. 
 
-## SUIT Hackathon Day 1 - Thursday, June 7, 2018
+## SUIT Hackathon Day 1 - Tuesday, June 5, 2018
 9:00 am, Europe Summer Time (Berlin, GMT+02:00), for 10 hrs
 Meeting number (access code): 317 907 083
 Meeting password: gHUc3WG9
 
-## SUIT Hackathon Day 2 - Thursday, June 7, 2018
+## SUIT Hackathon Day 2 - Wednesday, June 6, 2018
 9:00 am, Europe Summer Time (Berlin, GMT+02:00), for 10 hrs
 Meeting number (access code): 318 887 011
 Meeting password: 2xsdmCKF
