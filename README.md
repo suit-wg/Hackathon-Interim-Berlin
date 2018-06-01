@@ -1,4 +1,4 @@
-# Hackathon & Interop in Berlin
+# SUIT Hackathon & Interop in Berlin
 
 - *Date*: 5-6 June 2018
 
@@ -18,25 +18,32 @@ We are planning to do some interoperability testing between the SUIT manifest im
 - *Remote participation*:
 	For remote participation we will use a conference bridge (with Webex), a webcam and a decent microphone. If you plan to participate remotely, please drop a mail to the organizers (contact: Emmanuel <emmanuel.baccelli@inria.fr> and Hannes <hannes.tschofenig@arm.com>). The Webex details can be found below. 
 
-### Interop setup
+### Interop/Hackthon Setup
 - Available information about the [set up](https://github.com/suit-wg/Hackathon-Interim-Berlin/wiki/Interop-Setup).
 
 - More practical information will be made available on the fly on the [wiki](https://github.com/suit-wg/Hackathon-Interim-Berlin/wiki).
 
-# Interim SUIT wg meeting at 1600 CEST on 6 June 2018
-- In preparation of the upcoming IETF 102 meeting in Montreal, a (virtual) interim SUIT working group meeting is planned at the end of the Berlin hackathon, at 1600 CEST on 6 June 2018. Login details to the conference bridge will follow. 
-
-# Hackathon Conference Bridge Details
+## Interop/Hackathon Conference Bridge Details
 
 The Webex link is https://ietf.webex.com. Enter meeting number and meeting password, as stated below. 
 
-## SUIT Hackathon Day 1 - Tuesday, June 5, 2018
-9:00 am, Europe Summer Time (Berlin, GMT+02:00), for 10 hrs
+### SUIT Hackathon Day 1 - Tuesday, June 5, 2018
+9:00 am,  Europe Summer Time (Berlin, GMT+02:00), for 10 hrs
 Meeting number (access code): 317 907 083
 Meeting password: gHUc3WG9
 
-## SUIT Hackathon Day 2 - Wednesday, June 6, 2018
-9:00 am, Europe Summer Time (Berlin, GMT+02:00), for 10 hrs
+### SUIT Hackathon Day 2 - Wednesday, June 6, 2018
+9:00 am,  Europe Summer Time (Berlin, GMT+02:00), for 10 hrs
 Meeting number (access code): 318 887 011
 Meeting password: 2xsdmCKF
+
+# SUIT Virtual Interim meeting at 1600 CEST on 6 June 2018
+- In preparation of the upcoming IETF 102 meeting in Montreal, a (virtual) interim SUIT working group meeting is planned at the end of the Berlin hackathon, at 1600 CEST on 6 June 2018. Login details to the conference bridge will follow. 
+
+### Bridge Details
+10:00 am Eastern Daylight Time (GMT-04:00), for 1 hour
+https://ietf.webex.com/ietf/j.php?MTID=mf4fb7c7ba8779017f344346b7bcab5a3
+Meeting number (access code): 319 828 258
+Meeting password: xuZpJVc3
+Telephone: +1 650-479-3208
 
