@@ -18,6 +18,24 @@ We are planning to do some interoperability testing between the SUIT manifest im
 - *Remote participation*:
 	For remote participation we will use a conference bridge (with Webex), a webcam and a decent microphone. If you plan to participate remotely, please drop a mail to the organizers (contact: Emmanuel <emmanuel.baccelli@inria.fr> and Hannes <hannes.tschofenig@arm.com>). The Webex details can be found below. 
 
+### Tentative Agenda
+Day 1 
+ - 09:00-10:00 : Introduction, logistics, round table 
+ - 10:00-13:00 : Hacking + interop 
+ - 13:00-14:00 : Lunch break
+ - 14:00-18:00 : Hacking + interop
+ - 18:00-19:00 : Intermediate teams status + brainstorming
+ - 19:00-late : Social diner
+
+Day 2
+ - 09:00-09:30 : Welcome back
+ - 09:30-13:00 : Hacking + interop
+ - 12:00-13:00 : Lunch break
+ - 13:00-15:00 : Hacking + interop
+ - 15:00-16:00 : Teams results, concluding rountable
+ - 16:00-17:00 : SUIT working group interim meeting
+
+
 ### Interop/Hackthon Setup
 - Available information about the [set up](https://github.com/suit-wg/Hackathon-Interim-Berlin/wiki/Interop-Setup).
 
