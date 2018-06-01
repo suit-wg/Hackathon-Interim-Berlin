@@ -20,7 +20,8 @@ We are planning to do some interoperability testing between the SUIT manifest im
 
 ### Tentative Agenda
 Day 1 
- - 09:00-10:00 : Introduction, logistics, round table 
+ - 09:00-09:30 : Introduction, logistics 
+ - 09:30-10:00 : Round table on IoT firmware update scenarios
  - 10:00-13:00 : Hacking + interop 
  - 13:00-14:00 : Lunch break
  - 14:00-18:00 : Hacking + interop
