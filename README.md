@@ -40,7 +40,7 @@ Day 2
 ### Interop/Hackthon Setup
 - Available information about the [set up](https://github.com/suit-wg/Hackathon-Interim-Berlin/wiki/Interop-Setup).
 
-- More practical information will be made available on the fly on the [wiki](https://github.com/suit-wg/Hackathon-Interim-Berlin/wiki).
+- More information links etc. will be made available on-the-fly on this [pad](https://pad.inria.fr/p/cYawtv2ivnoOl60X_suit-hackathon).
 
 ## Interop/Hackathon Conference Bridge Details
 
