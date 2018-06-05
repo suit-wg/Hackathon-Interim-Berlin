@@ -57,12 +57,10 @@ Meeting number (access code): 318 887 011
 Meeting password: 2xsdmCKF
 
 # SUIT Virtual Interim meeting at 1600 CEST on 6 June 2018
-- In preparation of the upcoming IETF 102 meeting in Montreal, a (virtual) interim SUIT working group meeting is planned at the end of the Berlin hackathon, at 1600 CEST on 6 June 2018. Login details to the conference bridge will follow. 
+In preparation of the upcoming IETF 102 meeting in Montreal, a (virtual) interim SUIT working group meeting is planned at the end of the Berlin hackathon, at 1600 CEST on 6 June 2018. 
 
-### Bridge Details
-10:00 am Eastern Daylight Time (GMT-04:00), for 1 hour
-https://ietf.webex.com/ietf/j.php?MTID=mf4fb7c7ba8779017f344346b7bcab5a3
+For the virtual interim meeting we will use a different Webex bridge. 
 Meeting number (access code): 319 828 258
 Meeting password: xuZpJVc3
 Telephone: +1 650-479-3208
-
+https://ietf.webex.com/ietf/j.php?MTID=mf4fb7c7ba8779017f344346b7bcab5a3
