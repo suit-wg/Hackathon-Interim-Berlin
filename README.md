@@ -18,7 +18,10 @@ We are planning to do some interoperability testing between the SUIT manifest im
 - *Remote participation*:
 	For remote participation we will use a conference bridge (with Webex), a webcam and a decent microphone. If you plan to participate remotely, please drop a mail to the organizers (contact: Emmanuel <emmanuel.baccelli@inria.fr> and Hannes <hannes.tschofenig@arm.com>). The Webex details can be found below. 
 
-### Tentative Agenda
+### Hackathon/Interop Report
+What was achieved during this hackathon is described in this short [report](https://github.com/suit-wg/Hackathon-Interim-Berlin/blob/master/SUIT-Berlin-Hackathon-recap.pdf).
+
+### Agenda
 Day 1 
  - 09:00-09:30 : Introduction, logistics 
  - 09:30-10:00 : Round table on IoT firmware update scenarios
