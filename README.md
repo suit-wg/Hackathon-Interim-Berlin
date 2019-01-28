@@ -11,7 +11,7 @@
 	Germany
 
 - *Activities*: 
-We are planning to do some interoperability testing between the SUIT manifest implementations offered by different groups. We also plan to work on foundational building blocks together (e.g. COSE implementation). Since the IETF#101 Hackathon in London, Inria and FU Berlin have released a new COSE implementation. Arm has released a bootloader, and a manifest generation tool.
+We are planning to do some interoperability testing between the [SUIT manifest](https://tools.ietf.org/html/draft-moran-suit-manifest-01) implementations offered by different groups. We also plan to work on foundational building blocks together (e.g. COSE implementation). Since the IETF#101 Hackathon in London, Inria and FU Berlin have released a new COSE implementation. Arm has released a bootloader, and a manifest generation tool.
 
 - *On-site participation*: if you plan to participate on-site, please register via the dedicated Eventbrige webpage at https://www.eventbrite.com/e/ietf-software-updates-for-internet-of-things-suit-hackathon-tickets-46144700040. This will help us with the logistics (e.g. social event preparation). 
 
